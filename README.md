@@ -1,4 +1,4 @@
-# Google Hash Code 2018
+# Google Hash Code 2019
 ### Pizza Practice Problem - Javascript Solution
 
 Our NodeJS solution for the practice problem, the results:
